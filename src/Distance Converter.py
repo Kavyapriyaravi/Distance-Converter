@@ -57,7 +57,7 @@ print(dst_conv(int(input())))
 # mm to cm
 
 
-def dst_conv(mm):
+def dst_conv(km):
     return km * 100000
 
 
